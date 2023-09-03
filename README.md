@@ -11,6 +11,15 @@ This project provides a basic implementation of a hash table data structure in C
 
 ## Usage
 
+A simple example is implemented in main() function. 
+
+To compile and run,
+
+```
+gcc hash_table.c prime.c -o test
+./test
+```
+
 To use this hash table implementation in your C project, follow these steps:
 
 1. Clone this repository:
