@@ -1,6 +1,6 @@
 # Hash Table Implementation in C
 
-This project provides a basic implementation of a hash table data structure in C. A hash table is a fundamental data structure that allows efficient key-value lookups.
+This project provides a detailed implementation of a hash table data structure in C. A hash table is a fundamental data structure that allows efficient key-value lookups.
 
 ## Features
 
